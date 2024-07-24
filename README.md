@@ -28,7 +28,7 @@ To get started with the Random Message Generator, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/random-message-generator.git
+    https://github.com/JasurHK/RMG.git
     ```
 
 2. Navigate to the project directory:
